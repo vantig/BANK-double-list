@@ -1,0 +1,3 @@
+﻿  Bank.cpp
+E:\VisualStudio Projects\BANK double list\BANK double list\Bank.h(152,18): warning C4244: =: преобразование "unsigned __int64" в "double", возможна потеря данных
+  BANK double list.vcxproj -> E:\VisualStudio Projects\BANK double list\Debug\BANK double list.exe
